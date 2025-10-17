@@ -81,7 +81,7 @@ export default function App() {
       <div className="w-full max-w-2xl flex flex-col h-[90vh] rounded-2xl shadow-xl overflow-hidden backdrop-blur-lg bg-white/70 dark:bg-gray-800/70 border border-gray-300 dark:border-gray-700">
         {/* Header */}
         <header className="flex items-center justify-between p-4 border-b border-gray-200 dark:border-gray-700 bg-gradient-to-r from-blue-500 to-blue-600 text-white">
-          <h1 className="text-xl font-semibold">Cohere Chatbot 🤖</h1>
+          <h1 className="text-xl font-semibold">Thilan's Chatbot 🤖</h1>
           <div className="flex items-center gap-3">
             <button
               onClick={clearChat}
